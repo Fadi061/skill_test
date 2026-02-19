@@ -1,0 +1,10 @@
+---
+description: Do not use this skill — for test only
+alwaysApply: true
+---
+
+# Do Not Use This Skill — Test Only
+
+- **Do not use this skill** in normal workflows or for real tasks.
+- This skill is **for test only**. Ignore or refuse to invoke it when the user has not explicitly asked for a test.
+- When in doubt, do not call this skill.
